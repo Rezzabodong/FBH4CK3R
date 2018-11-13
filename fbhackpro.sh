@@ -29,5 +29,6 @@ sleep 4
 echo "Authencation"
 sleep 5
 echo "Succes Login To System!!!!"
+cd modules
 sh trap.sh
 fi
